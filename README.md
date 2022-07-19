@@ -20,4 +20,4 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-I'm a software engineer who is passionate about machine learning and cloud technolgies. I love contributing to open-source projects, creating technology to elevate people, and building community.
+I'm a software engineer who is passionate about machine learning and cloud technolgies. I love creating technology to elevate people, contributing to open-source projects, and building community.
