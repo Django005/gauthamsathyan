@@ -20,4 +20,7 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-I'm a software engineer who is passionate about machine learning and cloud technolgies. I love creating technology to elevate people, contributing to open-source projects, and building community.
+👀 I’m interested in Software Development, Machine Learning, and Blockchain
+🌱 I’m currently learning to build Microservices with python
+💞️ I’m looking to collaborate on any Blockchain-based project
+📫 How to reach me ... email and twitter
